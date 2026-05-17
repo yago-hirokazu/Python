@@ -1,4 +1,4 @@
-# Python
+# python
 Logs on working with and studying Python
 
 # with文（コンテキストマネージャ）
